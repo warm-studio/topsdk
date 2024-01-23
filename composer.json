@@ -1,11 +1,11 @@
 {
-    "name": "topsdk/topapi",
-    "description": "topapi php sdk",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Topsdk\\Topapi\\": "src/"
-        }
-    },
-    "require": {}
+  "name": "warm-studio/topapi",
+  "description": "topapi php sdk",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Topsdk\\Topapi\\": "src/"
+    }
+  },
+  "require": {}
 }
