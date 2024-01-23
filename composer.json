@@ -4,7 +4,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Topsdk\\Topapi\\": "src/"
+      "Topsdk\\Topapi\\": "src"
     }
   },
   "require": {}
